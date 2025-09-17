@@ -1,0 +1,36 @@
+# Flutter
+*.iml
+.idea/
+
+# Built application files
+*.apk
+*.ipa
+
+# iOS
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Frameworks/
+**/ios/build/
+
+# Android
+**/android/.gradle/
+**/android/build/
+
+# Web
+**/web/build/
+
+# macOS
+**/macos/Pods/
+**/macos/.symlinks/
+**/macos/Frameworks/
+**/macos/build/
+
+# Windows
+**/windows/build/
+
+# Linux
+**/linux/build/
+
+# Hive
+*.hive
+*.lock
